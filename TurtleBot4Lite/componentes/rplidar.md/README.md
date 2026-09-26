@@ -69,7 +69,7 @@ O RPLiDAR A1 possui detecção de potência do laser e verificação da saúde d
 ## Documentação
 
 <p align="center">
- <a href="[TurtleBot4Lite/datasheet/LD108_SLAMTEC_rplidar_datasheet_A1M8_v3.0_en.pdf](https://github.com/cassheelal/PIBITI_2026-2027/blob/main/TurtleBot4Lite/componentes/rplidar.md/LD108_SLAMTEC_rplidar_datasheet_A1M8_v3.0_en.pdf)">
+ <a href="LD108_SLAMTEC_rplidar_datasheet_A1M8_v3.0_en.pdf">
   <strong>Visualizar Datasheet</strong>
  </a>
 </p>
